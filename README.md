@@ -1,23 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dharshan-K-2904/Dharshan-K-2904/main/dharshan_banner.jpeg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dharshan-K-2904/Dharshan-K-2904/main/dharshan_banner.jpeg" />
 </p>
 
-<h1 align="center">Hi, I'm Dharshan K 👋</h1>
+<h1 align="center">Dharshan K 👋</h1>
 
 <p align="center">
-  💻 Software Developer • 🤖 AI Engineer (Aspirant) • ⚙️ Systems & Backend
+  💻 Software Engineer • 🤖 AI Engineer (Aspirant) • ⚙️ Backend & Systems
 </p>
 
 <p align="center">
-  🚀 Building AI-powered applications & scalable backend systems
+  🚀 Building intelligent systems, scalable backends, and real-world AI solutions
 </p>
 
 ---
 
-## 🧠 Developer Dashboard
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/csdeepak/csdeepak/main/assets/terminal-card.svg" width="450"/>
+  <img src="https://raw.githubusercontent.com/csdeepak/csdeepak/main/assets/terminal-card.svg" width="500"/>
 </p>
 
 ```bash
@@ -25,13 +23,13 @@
 Dharshan K
 
 > role
-AI-focused Software Developer
+AI-Focused Software Engineer
 
-> focus
-Backend Systems + AI/ML Integration
+> specialization
+Backend Systems + Machine Learning
 
-> current_goal
-Build real-world AI systems & get placed as SDE/AI Engineer
+> current_focus
+LLMs • RAG • Distributed Systems • Security Systems
 
-> location
-India
+> mindset
+Build → Learn → Iterate → Improve
